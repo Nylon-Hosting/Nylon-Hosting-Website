@@ -1,2 +1,3 @@
-# Nylon-Hosting-Website
-The website for nylon hosting services (NHS)
+# WIP
+This project is a WIP.
+It is not recommended to be used
